@@ -1,0 +1,6 @@
+
+Artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, unlike the natural intelligence displayed by humans and animals.
+Modern machine capabilities generally classified as AI include successfully understanding human speech, competing at the highest level in strategic game systems (such as chess and Go), autonomously operating cars, intelligent routing in content delivery networks, and military simulations.
+For most of its history, AI research has been divided into sub-fields that often fail to communicate with each other.These sub-fields are based on technical considerations, such as particular goals (e.g "robotics" or "machine learning"), the use of particular tools ("logic" or artificial neural networks), or deep philosophical differences.
+General intelligence is among the field's long-term goals.
+In the twenty-first century, AI techniques have experienced a resurgence following concurrent advances in computer power, large amounts of data, and theoretical understanding; and AI techniques have become an essential part of the technology industry, helping to solve many challenging problems in computer science, software engineering and operations research.
